@@ -26,6 +26,7 @@ env/
 htmlcov/
 test.py
 test.ipynb
+sample.txt
 
 # Build files
 build/
